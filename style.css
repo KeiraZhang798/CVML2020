@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    position: absolute;
+    left: 50%;
+    top: 2%;
+    transform: translate(-50%, 0);
+    font-family: sans-serif;
+}
+
+p {
+    position: absolute;
+    left: 50%;
+    bottom: 4%;
+    transform: translate(-50%, 0);
+    font-family: sans-serif;
+}
+
+#sketch {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%)
+}
