@@ -1,0 +1,17 @@
+/*#sketch{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+
+}*/
+
+#sketch{
+    margin:0 auto;
+    width: max-content;
+
+}
+
+h1{
+    text-align:center;
+}

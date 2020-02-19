@@ -3,10 +3,10 @@ body {
 }
 
 h1 {
-    position: absolute;
+    /* position: absolute; */
     left: 50%;
     top: 2%;
-    transform: translate(-50%, 0);
+    /* transform: translate(-50%, 0); */
     font-family: sans-serif;
 }
 
@@ -23,4 +23,15 @@ p {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%)
+}
+
+.entry {
+    display: inline-block;
+    width: max-content;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
 }
