@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'VT323', monospace;
+}
+
+#sketch {
+    margin: 0 auto;
+    width: max-content;
+}
+
+h1 {
+    text-align: center;
+    padding: 3vw;
+    font-size: 3em;
+}
